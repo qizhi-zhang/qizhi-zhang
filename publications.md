@@ -38,8 +38,9 @@ formally published version exist, only the formal publication is included.
    - DOI: [10.18653/v1/2025.acl-long.58](https://doi.org/10.18653/v1/2025.acl-long.58)
 
 5. **Secure Computation for G-Module and its Applications**
-   - Authors: Tianpei Lu, Qizhi Zhang, Bingsheng Zhang, Lichun Li, Shan Yin, Kui Ren
+   - Authors: Tianpei Lu\*, Qizhi Zhang\*, Bingsheng Zhang, Lichun Li, Shan Yin, Kui Ren
    - Venue: The 34th International Conference on Computer Communications and Networks (ICCCN 2025)
+   - Remark: 同等贡献一作
 
 ## 2024
 

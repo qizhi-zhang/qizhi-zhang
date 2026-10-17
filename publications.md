@@ -37,6 +37,10 @@ formally published version exist, only the formal publication is included.
    - Pages: 1160-1174
    - DOI: [10.18653/v1/2025.acl-long.58](https://doi.org/10.18653/v1/2025.acl-long.58)
 
+5. **Secure Computation for G-Module and its Applications**
+   - Authors: Tianpei Lu, Qizhi Zhang, Bingsheng Zhang, Lichun Li, Shan Yin, Kui Ren
+   - Venue: ICCCN 2025
+
 ## 2024
 
 1. **An Inversion Attack Against Obfuscated Embedding Matrix in Language Model Inference**
@@ -73,6 +77,14 @@ formally published version exist, only the formal publication is included.
    - Venue: 2015 IEEE International Conference on Communications (ICC)
    - Pages: 19-24
    - DOI: [10.1109/ICC.2015.7248292](https://doi.org/10.1109/ICC.2015.7248292)
+
+## 2014
+
+1. **On the signature calculus for finite fields of order square of prime numbers**
+   - Authors: Qizhi Zhang
+   - Venue: Journal of Number Theory, Volume 134
+   - Pages: 29-37
+   - Link: [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YaeWXDEAAAAJ&cstart=20&pagesize=80&authuser=1&citation_for_view=YaeWXDEAAAAJ:Y0pCki6q_DkC)
 
 ## 2006
 

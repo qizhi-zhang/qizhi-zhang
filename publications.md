@@ -18,7 +18,7 @@ formally published version exist, only the formal publication is included.
    - DOI: [10.1109/PCDS65695.2025.00031](https://doi.org/10.1109/PCDS65695.2025.00031)
 
 2. **Suda: An Efficient and Secure Unbalanced Data Alignment Framework for Vertical Privacy-Preserving Machine Learning**
-   - Authors: Lushan Song, Qizhi Zhang, Yu Lin, Haoyu Niu, Daode Zhang, Zheng Qu, Weili Han, Jue Hong, Quanwei Cai, Ye Wu
+   - Authors: Lushan Song\*, Qizhi Zhang\*, Yu Lin, Haoyu Niu, Daode Zhang, Zheng Qu, Weili Han, Jue Hong, Quanwei Cai, Ye Wu
    - Venue: 34th USENIX Security Symposium (USENIX Security 25)
    - Pages: 7663-7682
    - Link: [USENIX](https://www.usenix.org/conference/usenixsecurity25/presentation/song-lushan)
@@ -53,7 +53,7 @@ formally published version exist, only the formal publication is included.
    - Link: [USENIX](https://www.usenix.org/conference/usenixsecurity23/presentation/lu)
 
 2. **Secure Softmax/Sigmoid for Machine-learning Computation**
-   - Authors: Yu Zheng, Qizhi Zhang, Sherman S. M. Chow, Yuxiang Peng, Sijun Tan, Lichun Li, Shan Yin
+   - Authors: Yu Zheng\*, Qizhi Zhang\*, Sherman S. M. Chow, Yuxiang Peng, Sijun Tan, Lichun Li, Shan Yin
    - Venue: Proceedings of the 39th Annual Computer Security Applications Conference (ACSAC 2023)
    - Pages: 463-476
    - DOI: [10.1145/3627106.3627175](https://doi.org/10.1145/3627106.3627175)

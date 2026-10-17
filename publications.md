@@ -1,8 +1,5 @@
 # Publications
 
-Publications are listed in reverse chronological order. arXiv, CoRR, ePrint,
-technical reports, and patents are excluded. Where both a preprint and a
-formally published version exist, only the formal publication is included.
 
 ## 2026
 

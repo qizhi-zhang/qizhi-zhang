@@ -4,6 +4,12 @@ Publications are listed in reverse chronological order. arXiv, CoRR, ePrint,
 technical reports, and patents are excluded. Where both a preprint and a
 formally published version exist, only the formal publication is included.
 
+## 2026
+
+1. **TWIST: Private Tenant-Dedicated LLM Serving via Joint Model-Token Transformation**
+   - Authors: Qizhi Zhang\*, Yufei Chen\*, Yu Lin\*, Wenqiang Ruan, Quanwei Cai, Daode Zhang, Longxiang Wang, Jue Hong, Ye Wu, Cong Wang
+   - Venue: The 33rd ACM Conference on Computer and Communications Security (CCS 2026)
+
 ## 2025
 
 1. **On the Equality Test and Comparison for Replicated Secret Sharing**
@@ -16,12 +22,14 @@ formally published version exist, only the formal publication is included.
    - Venue: 34th USENIX Security Symposium (USENIX Security 25)
    - Pages: 7663-7682
    - Link: [USENIX](https://www.usenix.org/conference/usenixsecurity25/presentation/song-lushan)
+   - Remark: 同等贡献一作，通信作者
 
 3. **Toward Efficient and Secure Collaborative SQL Analyses of Billion-Scale Datasets**
    - Authors: Kang Liu, Qizhi Zhang, Yuan Zhang, Yu Lin, Quanwei Cai, Jue Hong, Ye Wu, Sheng Zhong
    - Venue: IEEE Transactions on Information Forensics and Security, Volume 20
    - Pages: 8237-8250
    - DOI: [10.1109/TIFS.2025.3594582](https://doi.org/10.1109/TIFS.2025.3594582)
+   - Remark: 第一通信作者
 
 4. **ObfusLM: Privacy-preserving Language Model Service against Embedding Inversion Attacks**
    - Authors: Yu Lin, Ruining Yang, Yunlong Mao, Qizhi Zhang, Jue Hong, Quanwei Cai, Ye Wu, Huiqi Liu, Zhiyu Chen, Bing Duan, Sheng Zhong
@@ -49,6 +57,7 @@ formally published version exist, only the formal publication is included.
    - Venue: Proceedings of the 39th Annual Computer Security Applications Conference (ACSAC 2023)
    - Pages: 463-476
    - DOI: [10.1145/3627106.3627175](https://doi.org/10.1145/3627106.3627175)
+   - Remark: 同等贡献一作
 
 ## 2018
 

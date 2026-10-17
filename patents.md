@@ -13,9 +13,8 @@
 | 授权 | 97 | 法律状态为“有权-审定授权”，其中 45 项含权利转移 |
 | 审中 | 13 | 法律状态为“审中-实质审查” |
 | 国际申请 | 8 | 申请号以 `PCT/` 开头 |
-| 已落地产品 | 待补充 | 佰腾著录信息不包含产品落地情况，需补充产品名称及对应申请号 |
 
-> 注：授权、审中、国际申请为互斥的申请状态分类，共 118 项；已落地产品属于成果转化维度，可能与前三类重叠，不计入合计。
+> 注：授权、审中、国际申请为互斥的申请状态分类，共 118 项。
 
 ## 授权（97 项）
 
@@ -149,7 +148,3 @@
 | 6 | PCT/CN2014/095868 | BROADCAST COMMUNICATION METHOD AND USER EQUIPMENT | ZHANG, Qizhi 张祺智 | 2014-12-31 | WO/2016/106670 | HUAWEI TECHNOLOGIES CO., LTD. 华为技术有限公司 | - |
 | 7 | PCT/CN2014/094566 | METHOD AND DEVICE FOR TRANSMITTING BROADCAST MESSAGE | ZHANG, Qizhi 张祺智；SUN, Weijun 孙卫军 | 2014-12-22 | WO/2016/101112 | HUAWEI TECHNOLOGIES CO., LTD. 华为技术有限公司 | - |
 | 8 | PCT/CN2014/083816 | SYNCHRONIZATION COMMUNICATION METHOD AND COMMUNICATION NODE | MA, Jie 马洁；ZHANG, Qizhi 张祺智 | 2014-08-06 | WO/2016/019529 | HUAWEI TECHNOLOGIES CO., LTD. 华为技术有限公司 | - |
-
-## 已落地产品（待补充）
-
-佰腾专利著录信息不能证明专利是否已应用于具体产品。请补充产品名称及对应申请号后，再在此处建立映射。

@@ -2,7 +2,12 @@
 
 ## Education
 
-- **The University of Tokyo**, 2012
+- **The University of Tokyo**
   - Ph.D., Graduate School of Mathematical Sciences
-- **Tsinghua University**, 2003
+- **Tsinghua University**
   - B.S., Department of Mathematical Sciences
+
+## Professional Experience
+
+- Currently at **ByteDance**
+- Previously worked at **Ant Group**, **Alibaba Group**, and **Huawei**

@@ -100,7 +100,7 @@
 1. **On the signature calculus for finite fields of order square of prime numbers**
    - Authors: Qizhi Zhang
    - Venue: Journal of Number Theory, Volume 134
-   - 中科院分区: 数学 4 区
+   - 中科院分区: 数学 3 区
    - Pages: 29-37
    - Link: [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YaeWXDEAAAAJ&cstart=20&pagesize=80&authuser=1&citation_for_view=YaeWXDEAAAAJ:Y0pCki6q_DkC)
 

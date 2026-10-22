@@ -13,8 +13,8 @@
 
 3. **From Review to Authorization: Key-Isolated Threshold Signing for LLM Agents**
    - Authors: Yu Zheng, Qizhi Zhang
-   - Venue: InfPriv 2026 Poster
-   - Link: [arXiv](https://arxiv.org/abs/2609.05901)
+   - Venue: NeurIPS 2026 Workshop on Beyond Private Training: The New Landscape of AI Privacy (InfPriv 2026), Poster
+   - Link: [OpenReview](https://openreview.net/forum?id=MOuGkWT0yY), [arXiv](https://arxiv.org/abs/2609.05901)
 
 ## 2025
 

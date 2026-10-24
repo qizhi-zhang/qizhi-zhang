@@ -119,7 +119,7 @@
 3. **On the signature calculus for finite fields of order square of prime numbers**
    - Authors: Qizhi Zhang
    - Venue: Journal of Number Theory, Volume 134
-   - Classification: SCI, JCR Q3
+   - Classification: SCI, JCR 2025 Q3
    - Pages: 29-37
    - Link: [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=YaeWXDEAAAAJ&cstart=20&pagesize=80&authuser=1&citation_for_view=YaeWXDEAAAAJ:Y0pCki6q_DkC)
 
@@ -128,6 +128,6 @@
 1. **All Double Coverings of Cyclotomic Fields**
    - Authors: Linsheng Yin, Qizhi Zhang
    - Venue: Mathematische Zeitschrift, Volume 253, Issue 3
-   - Classification: SCI, JCR Q1
+   - Classification: SCI, JCR 2025 Q2
    - Pages: 479-488
    - DOI: [10.1007/s00209-005-0914-6](https://doi.org/10.1007/s00209-005-0914-6)

@@ -9,6 +9,18 @@
    - Venue: The 33rd ACM Conference on Computer and Communications Security (CCS 2026)
    - Classification: CCF A
 
+2. **COVERT: Privacy-Preserving Covariant Obfuscation for VLMaaS via Exact Reparameterization and Tailored Tuning**
+   - Authors: Wenqiang Ruan, Zirui Huang, Yu Lin, Qizhi Zhang, Yunlong Mao, Quanwei Cai, Jue Hong, Sheng Zhong, Ye Wu
+   - Venue: Proceedings of the 19th European Conference on Computer Vision (ECCV 2026)
+   - Classification: CCF B
+   - Link: [ECCV](https://eccv.ecva.net/virtual/2026/poster/5261)
+
+3. **From Review to Authorization: Key-Isolated Threshold Signing for LLM Agents**
+   - Authors: Yu Zheng, Qizhi Zhang
+   - Venue: NeurIPS 2026 Workshop on Beyond Private Training: The New Landscape of AI Privacy (InfPriv 2026), Poster
+   - Classification: CCF not ranked (workshop)
+   - Links: [OpenReview](https://openreview.net/group?id=NeurIPS.cc%2F2026%2FWorkshop%2FInfPriv) | [arXiv](https://arxiv.org/abs/2609.05901)
+
 ## 2025
 
 1. **On the Equality Test and Comparison for Replicated Secret Sharing**
